@@ -1,10 +1,10 @@
 import React from "react";
 
 const projects = [
-  { id: 1, title: "Project One", img: "images/project1.jpg" },
-  { id: 2, title: "Project Two", img: "images/project2.jpg" },
-  { id: 3, title: "Project Three", img: "images/project1.jpg" },
-  { id: 4, title: "Project Four", img: "images/project2.jpg" },
+  { id: 1, title: "Project One", img: "/images/project1.jpg" },
+  { id: 2, title: "Project Two", img: "/images/project2.jpg" },
+  { id: 3, title: "Project Three", img: "/images/project1.jpg" },
+  { id: 4, title: "Project Four", img: "/images/project2.jpg" },
 ];
 
 const Portfolio = () => {
